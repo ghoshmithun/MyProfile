@@ -1,7 +1,7 @@
 {
   "name": "personalportfolio",
   "version": "0.1.0",
-  "homepage": "https://miriancoursera.github.io",
+  "homepage": "https://ghoshmithun.github.io",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
@@ -29,7 +29,6 @@
   "browserslist": {
     "production": [
       ">0.2%",
-      "not dead",
       "not op_mini all"
     ],
     "development": [
